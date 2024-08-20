@@ -1,0 +1,4 @@
+# python 3.9.0
+llama-index-llms-ollama ==  0.2.2
+llama-index == 0.10.62
+llama-index-embeddings-huggingface == 0.2.2
